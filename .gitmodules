@@ -1,0 +1,6 @@
+[submodule "ds-three-fps-client"]
+	path = ds-three-fps-client
+	url = git@github.com:szym-mie/ds-three-fps-client.git
+[submodule "ds-kotlin-fps-server"]
+	path = ds-kotlin-fps-server
+	url = git@github.com:szym-mie/ds-kotlin-fps-server.git
